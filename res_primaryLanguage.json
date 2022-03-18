@@ -1,0 +1,206 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Harsh Rajgor. I'm passionate about meeting new people, learning about new technologies. As a Computer Science student, I do not limit myself just to computers, I like to build a product by combining different technologies. I'm a Computer Science Graduate student at the University of Texas at Dallas focusing on the Intelligent Systems track and will be graduating in June 2023. I'm an Android Developer with around 2 years of experience and currently, I'm diving into Machine Learning and iOS development (If you are looking to colloborate, hit me up!). Outside the classroom, I play table tennis, binge series/anime and also love reading books as it puts me into relexation mode.",
+      "section_name": {
+        "about": "About me",
+        "education": "Education",
+        "projects": "Projects",
+        "publications": "Publications",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Collaborative Filtering on Netflix Dataset",
+        "startDate": "2021",
+        "description": "The task was to implement memory-based collaborative filtering on the Netflix data. In this approach, we predict the votes of a particular user from the database of user votes from a sample or population of other users.",
+        "images": [
+          "images/portfolio/cfnd/p1.jpeg"
+        ],
+        "url": "https://github.com/h4rz/Collaborative-Filtering-Netflix-Dataset",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-numpy-plain",
+            "name": "Numpy"
+          },
+          {
+            "class": "devicon-pandas-plain",
+            "name": "Pandas"
+          }
+        ]
+      },
+      {
+        "title": "Split Among Friends",
+        "startDate": "2021",
+        "description": "Split Among Friends is a web application for splitting expenses with your friends. It lets you and your friends add various bills and keep track of who owes who, and then it helps you to settle up with each other.",
+        "images": [
+          "images/portfolio/saf/p1.png",
+          "images/portfolio/saf/p2.png",
+          "images/portfolio/saf/p3.png",
+          "images/portfolio/saf/p4.png",
+          "images/portfolio/saf/p5.png",
+          "images/portfolio/saf/p6.png"
+        ],
+        "url": "https://github.com/h4rz/SplitFriendsUI",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Fashion Brand Logo Recognition",
+        "startDate": "2021",
+        "description": "The task was to recognize the top 10 brands based on their logo from the live camera feed. My role in this project included collecting data, cleaning the data and training the data on the TensorFlow model maker to generate the model file that was later used in the app.",
+        "images": [
+          "images/portfolio/brand-recognize/p1.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "TensorFlow"
+          }
+        ]
+      },
+      {
+        "title": "Phoenix Nhance",
+        "startDate": "2020",
+        "description": "Phoenix Nhance is a loyalty program app that satisfies every customer's shopping needs. With a range of exciting features and benefits, the customers have a safe and seamless shopping experience.",
+        "images": [
+          "images/portfolio/phoenix-nhance/p1.webp"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.phoenix.nhance",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Abhigyaan – Refreshable Braille",
+        "startDate": "2018",
+        "description": "Abhigyaan is a device specially designed for blind people using the braille technology. The user will be able to navigate through millions of pages of information just at one place, they can navigate easily with the buttons provided on the device. Abhigyaan comes with an audio output where the audio clip of text can be heard. Abhigyaan comes with predefined study material which can be accessed anytime. With this device we are trying to bridge the gap between knowledge and visually impaired people.",
+        "images": [
+          "images/portfolio/abhigyaan/p1.png",
+          "images/portfolio/abhigyaan/p2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-raspberrypi-line",
+            "name": "Raspberry Pi"
+          },
+          {
+            "class": "devicon-embeddedc-plain",
+            "name": "Embedded C"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Unifynd",
+        "title": "Android Developer",
+        "logo": "images/exp/unifynd.png",
+        "years": "04.2020 - 07.2021",
+        "mainTech": [],
+        "url": "https://www.unifynd.com/",
+        "description": "Built application for large screen devices such as Kiosk that required working with custom hardware APIs for scanner and printer. Migrated the app in accordance with the latest guidelines provided by Android that resulted in 2x faster developments and a 15% reduction in crashes. Successfully deployed 1 product on the play store that has around 100K+ downloads and 3 service apps to the end-user.",
+        "technologies": [
+          "REST API",
+          "Kotlin",
+          "Android SDK",
+          "OpenCV",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Keubik Technology",
+        "title": "Android Developer",
+        "logo": "images/exp/unifynd.png",
+        "years": "09.2019 - 03.2020",
+        "mainTech": [],
+        "url": "https://www.keubik.com/",
+        "description": "Reduced the cost to build the Phoenix Nhance app by replacing the paid CamScanner SDK that was used in the app with building an edge detection and image enhancement algorithm with an accuracy of 85%. Handled 2 products simultaneously. Successfully deployed 1 product app (Phoenix Nhance) on the play store that has around 100K+ downloads and 3 service apps required by the product app to the end-user. Developed another product app (Rezy.Tech) and 2 service apps required by the product app.",
+        "technologies": [
+          "REST API",
+          "Kotlin",
+          "Android SDK",
+          "OpenCV",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Accenture",
+        "title": "Application Development Associate",
+        "logo": "images/exp/unifynd.png",
+        "years": "08.2018 - 09.2019",
+        "mainTech": [],
+        "url": "https://www.accenture.com/",
+        "description": "Analyzed production environment incidents/defects to determine the root cause and providing fixes for the issues. Managed a knowledge exchange database that includes the incidents/defects that have occurred in the production environment for future reference. Automated the manual report generation that includes the summary of defects.",
+        "technologies": [
+          "REST API",
+          "Java",
+          "HTML",
+          "CSS",
+          "XML",
+          "Python"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Dallas",
+        "title": "Master of Science, Computer Science",
+        "years": "08.2021 - 06.2023",
+        "location": "Richardson, TX, USA",
+        "gpa": "3.56/4.00",
+        "is_current": true
+      },
+      {
+        "school": "K.J. Somaiya Insitute of Engineering And Information Technology",
+        "title": "Bachelor of Engineering, Computer Engineering",
+        "years": "08.2015 - 06.2018",
+        "location": "Mumbai, MH, India",
+        "gpa": "8.38/10.0",
+        "is_current": false
+      },
+      {
+        "school": "Vivekanand Education Society's Polytechnic",
+        "title": "Diploma, Computer Technology",
+        "years": "08.2012 - 06.2015",
+        "location": "Mumbai, MH, India",
+        "gpa": "81.76/100",
+        "is_current": false
+      }
+    ]
+  }

@@ -1,0 +1,89 @@
+{
+    "basic_info": {
+      "name": "Harsh Rajgor",
+      "titles": [ "Android App Developer", "Machine Learning Enthusiast", "Full Stack (Mern) Developer", "Software Engineer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/h4rz",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/Harsh_Rajgor9",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/harsh-rajgor/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "goodreads",
+          "url": "https://www.goodreads.com/user/show/111697939-harsh-rajgor",
+          "class": "fab fa-goodreads"
+        }
+      ],
+      "image": "myProfile_2.png",
+      "logo": "logo.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Kotlin",
+          "class": "devicon-kotlin-plain",
+          "level": "95"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-android-plain",
+          "level": "95"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "65"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "60"
+        },
+        {
+          "name": "Raspberry Pi",
+          "class": "devicon-raspberrypi-line",
+          "level": "95"
+        },
+        {
+          "name": "Arduino",
+          "class": "devicon-arduino-plain",
+          "level": "95"
+        }
+      ]
+    }
+  }
