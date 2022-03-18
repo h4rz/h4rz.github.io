@@ -202,5 +202,15 @@
         "gpa": "81.76/100",
         "is_current": false
       }
+    ],
+    "publications": [
+      {
+        "title": "Abhigyaan : Source of knowledge for visually impaired using vibrations.",
+        "publication": "International Conference On Advances in Science & Technology(ICAST), Volume 11, Research India Publications",
+        "date": "1/1/2018",
+        "url": "https://www.ripublication.com/Volume/acstv11n1spl.htm",
+        "authors": "Harsh Rajgor, Yash Gajara, Nidhi Bhatt",
+        "description": "Abhigyaan is a device specially designed for blind people using the braille technology. The user will be able to navigate through millions of pages of information just at one place, they can navigate easily with the buttons provided on the device. Abhigyaan comes with an audio output where the audio clip of text can be heard. Abhigyaan comes with predefined study material which can be accessed anytime. With this device we are trying to bridge the gap between knowledge and visually impaired people."
+      }
     ]
   }
