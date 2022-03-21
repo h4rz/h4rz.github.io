@@ -8,6 +8,7 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Education from "./components/Education";
+import Publication from "./components/Publication";
 
 class App extends Component {
 
@@ -123,11 +124,15 @@ class App extends Component {
           sharedBasicInfo={this.state.sharedData.basic_info}
         />
         <Education
-          resumeExperience={this.state.resumeData.education}
+          resumeEducation={this.state.resumeData.education}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
         <Projects
           resumeProjects={this.state.resumeData.projects}
+          resumeBasicInfo={this.state.resumeData.basic_info}
+        />
+        <Publication
+          resumePublications={this.state.resumeData.publications}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
         <Skills

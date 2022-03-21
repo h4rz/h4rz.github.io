@@ -8,9 +8,9 @@ import Badge from "react-bootstrap/Badge";
 
 class Education extends Component {
   render() {
-    if (this.props.resumeExperience && this.props.resumeBasicInfo) {
+    if (this.props.resumeEducation && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.education;
-      var education = this.props.resumeExperience.map(function (education, i) {
+      var education = this.props.resumeEducation.map(function (education, i) {
 
         return (
           <VerticalTimelineElement

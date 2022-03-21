@@ -13,6 +13,31 @@
     },
     "projects": [
       {
+        "title": "React Portfolio",
+        "startDate": "2022",
+        "description": "Built a personal portfolio in react to better understand the concepts learned during the CS 6314 course at the University of Texas at Dallas. Portfolio includes separate sections for about, education, projects, skills, work experience and publications. It also supports light and dark theme. The project is open sourced on GitHub and is live at h4rz.github.io.",
+        "images": [
+          "images/portfolio/portfolio/p1.png",
+          "images/portfolio/portfolio/p2.png",
+          "images/portfolio/portfolio/p3.png",
+          "images/portfolio/portfolio/p4.png",
+          "images/portfolio/portfolio/p5.png",
+          "images/portfolio/portfolio/p6.png",
+          "images/portfolio/portfolio/p7.png"
+        ],
+        "url": "https://github.com/h4rz/h4rz.github.io",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
         "title": "Collaborative Filtering on Netflix Dataset",
         "startDate": "2021",
         "description": "The task was to implement memory-based collaborative filtering on the Netflix data. In this approach, we predict the votes of a particular user from the database of user votes from a sample or population of other users.",
@@ -104,7 +129,7 @@
       {
         "title": "Abhigyaan – Refreshable Braille",
         "startDate": "2018",
-        "description": "Abhigyaan is a device specially designed for blind people using the braille technology. The user will be able to navigate through millions of pages of information just at one place, they can navigate easily with the buttons provided on the device. Abhigyaan comes with an audio output where the audio clip of text can be heard. Abhigyaan comes with predefined study material which can be accessed anytime. With this device we are trying to bridge the gap between knowledge and visually impaired people.",
+        "description": "Abhigyaan is a device specially designed for visually impaired people using the braille technology. The user will be able to navigate through millions of pages of information just at one place, they can navigate easily with the buttons provided on the device. Abhigyaan comes with an audio output where the audio clip of text can be heard. Abhigyaan comes with predefined study material which can be accessed anytime. With this device we are trying to bridge the gap between knowledge and visually impaired people.",
         "images": [
           "images/portfolio/abhigyaan/p1.png",
           "images/portfolio/abhigyaan/p2.png"
@@ -201,6 +226,16 @@
         "location": "Mumbai, MH, India",
         "gpa": "81.76/100",
         "is_current": false
+      }
+    ],
+    "publications": [
+      {
+        "title": "Abhigyaan : Source of knowledge for visually impaired using vibrations.",
+        "publication": "International Conference On Advances in Science & Technology(ICAST), Volume 11, Research India Publications",
+        "date": "1/1/2018",
+        "url": "https://www.ripublication.com/Volume/acstv11n1spl.htm",
+        "authors": "Harsh Rajgor, Yash Gajara, Nidhi Bhatt",
+        "description": "Abhigyaan is a device specially designed for visually impaired people using the braille technology. The user will be able to navigate through millions of pages of information just at one place, they can navigate easily with the buttons provided on the device. Abhigyaan comes with an audio output where the audio clip of text can be heard. Abhigyaan comes with predefined study material which can be accessed anytime. With this device we are trying to bridge the gap between knowledge and visually impaired people."
       }
     ]
   }

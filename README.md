@@ -24,3 +24,5 @@
 [Phoenix Nhance](https://play.google.com/store/apps/details?id=com.phoenix.nhance)
 
 [Magnifying glass](https://unsplash.com/photos/afW1hht0NSs)
+
+[Favicon Icon](https://favicon.io/favicon-generator/)
