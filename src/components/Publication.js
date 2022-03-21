@@ -36,7 +36,7 @@ class Publication extends Component {
     return (
       <section id="resume" className="pb-5">
         <div className="col-md-12">
-            <h1 className="section-title" style={{ color: "black" }}>
+            <h1 className="section-title" style={{ color: "white" }}>
               <span className="text-black" style={{ textAlign: "center" }}>
                 {sectionName}
               </span>

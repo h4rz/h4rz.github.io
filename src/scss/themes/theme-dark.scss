@@ -11,7 +11,7 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #3cdc84;
       opacity: 0.8;
    }
 
@@ -108,4 +108,18 @@ body[data-theme="dark"] {
    .close-icon {
       color: white;
    }
+
+   #projects {
+      background-color: #7f7f7f;
+      .section-title {
+         color: white !important;
+      }
+      .foto div {
+         background: #6d6d6d;
+      }
+      .project-title-settings {
+         color: white;
+      }
+   }
+
 }
