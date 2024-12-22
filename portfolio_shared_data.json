@@ -9,9 +9,9 @@
           "class": "fab fa-github"
         },
         {
-          "name": "twitter",
-          "url": "https://twitter.com/Harsh_Rajgor9",
-          "class": "fab fa-twitter"
+          "name": "bluesky",
+          "url": "https://bsky.app/profile/h4rz9.bsky.social",
+          "class": "fa-brands fa-bluesky"
         },
         {
           "name": "linkedin",
