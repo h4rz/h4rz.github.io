@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Harsh Rajgor. I'm passionate about meeting new people, learning about new technologies. As a Computer Science student, I do not limit myself just to computers, I like to build a product by combining different technologies. I'm a Computer Science Graduate student at the University of Texas at Dallas focusing on the Intelligent Systems track and will be graduating in June 2023. I'm an Android Developer with around 2 years of experience and currently, I'm diving into Machine Learning and iOS development (If you are looking to colloborate, hit me up!). Outside the classroom, I play table tennis, binge series/anime and also love reading books as it puts me into relexation mode.",
+      "description": "👋 I'm Harsh Rajgor, a Software Engineer II at Copart with expertise in mobile development across Android and React Native platforms. I graduated with a Master's in Computer Science from The University of Texas at Dallas in 2023, where I specialized in Intelligent Systems. I have a proven track record of delivering impactful solutions, from leading core feature development for Copart's mobile apps to creating innovative solutions like an edge detection algorithm that reduced costs by 85% at Unifynd. I'm particularly passionate about mobile architecture, having worked with modern frameworks and patterns like Jetpack Compose, MVI, and MVVM. When I'm not coding, you can find me playing table tennis, catching up on anime, or unwinding with a good book. I'm always eager to collaborate on interesting projects and explore new technologies - feel free to reach out!",
       "section_name": {
         "about": "About me",
         "education": "Education",
@@ -152,10 +152,56 @@
     ],
     "experience": [
       {
+        "company": "Copart",
+        "title": "Software Engineer II",
+        "logo": "images/exp/copart.png",
+        "years": "May 2023 - Current",
+        "mainTech": [],
+        "url": "https://www.copart.com/",
+        "description": "Led development of core features for React Native apps (Copart – Online Auto Auctions, Copart – Seller Mobile, and Copart GO) supporting Android & iOS, achieving 20% faster performance, 30% fewer crashes, and 15% increase in user satisfaction. Enhanced WebSocket functionality for live auctions and implemented strategic caching solutions across mobile apps, optimizing network resource usage and improving real-time bidding reliability. Spearheaded migration of Android App to meet latest Google API requirements, enhancing functionality, security, and device support while maintaining a low bug-to-feature ratio. Additionally, led and mentored a team of 6 developers across US and India, establishing guidelines for architectural design and code review processes in an Agile environment with bi-weekly sprints. Architected modular SDK using Jetpack Compose and MVI pattern, enabling feature monetization and new revenue streams for the Seller Mobile App.",
+        "technologies": [
+          "REST API",
+          "React Native",
+          "iOS",
+          "Firebase",
+          "App Store Connect",
+          "Google Play Console",
+          "JavaScript/TypeScript",
+          "NodeJS (Express.js)",
+          "Mobx",
+          "Kotlin",
+          "Android SDK",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Copart",
+        "title": "Software Engineer Intern",
+        "logo": "images/exp/copart.png",
+        "years": "Aug. 2022 - Apr. 2023",
+        "mainTech": [],
+        "url": "https://www.copart.com/",
+        "description": "",
+        "technologies": [
+          "REST API",
+          "React Native",
+          "iOS",
+          "Firebase",
+          "App Store Connect",
+          "Google Play Console",
+          "JavaScript/TypeScript",
+          "NodeJS (Express.js)",
+          "Mobx",
+          "Kotlin",
+          "Android SDK",
+          "Firebase"
+        ]
+      },
+      {
         "company": "Unifynd",
         "title": "Android Developer",
         "logo": "images/exp/unifynd.png",
-        "years": "04.2020 - 07.2021",
+        "years": "Apr. 2020 - Jul. 2021",
         "mainTech": [],
         "url": "https://www.unifynd.com/",
         "description": "Built application for large screen devices such as Kiosk that required working with custom hardware APIs for scanner and printer. Migrated the app in accordance with the latest guidelines provided by Android that resulted in 2x faster developments and a 15% reduction in crashes. Successfully deployed 1 product on the play store that has around 100K+ downloads and 3 service apps to the end-user.",
@@ -171,7 +217,7 @@
         "company": "Keubik Technology",
         "title": "Android Developer",
         "logo": "images/exp/unifynd.png",
-        "years": "09.2019 - 03.2020",
+        "years": "Sep. 2019 - Mar. 2020",
         "mainTech": [],
         "url": "https://www.keubik.com/",
         "description": "Reduced the cost to build the Phoenix Nhance app by replacing the paid CamScanner SDK that was used in the app with building an edge detection and image enhancement algorithm with an accuracy of 85%. Handled 2 products simultaneously. Successfully deployed 1 product app (Phoenix Nhance) on the play store that has around 100K+ downloads and 3 service apps required by the product app to the end-user. Developed another product app (Rezy.Tech) and 2 service apps required by the product app.",
@@ -187,7 +233,7 @@
         "company": "Accenture",
         "title": "Application Development Associate",
         "logo": "images/exp/unifynd.png",
-        "years": "08.2018 - 09.2019",
+        "years": "Aug. 2018 - Sep. 2019",
         "mainTech": [],
         "url": "https://www.accenture.com/",
         "description": "Analyzed production environment incidents/defects to determine the root cause and providing fixes for the issues. Managed a knowledge exchange database that includes the incidents/defects that have occurred in the production environment for future reference. Automated the manual report generation that includes the summary of defects.",
@@ -205,15 +251,15 @@
       {
         "school": "The University of Texas at Dallas",
         "title": "Master of Science, Computer Science",
-        "years": "08.2021 - 06.2023",
+        "years": "Aug. 2021 - May. 2023",
         "location": "Richardson, TX, USA",
-        "gpa": "3.56/4.00",
-        "is_current": true
+        "gpa": "3.57/4.00",
+        "is_current": false
       },
       {
         "school": "K.J. Somaiya Insitute of Engineering And Information Technology",
         "title": "Bachelor of Engineering, Computer Engineering",
-        "years": "08.2015 - 06.2018",
+        "years": "Aug. 2015 - May. 2018",
         "location": "Mumbai, MH, India",
         "gpa": "8.38/10.0",
         "is_current": false
@@ -221,7 +267,7 @@
       {
         "school": "Vivekanand Education Society's Polytechnic",
         "title": "Diploma, Computer Technology",
-        "years": "08.2012 - 06.2015",
+        "years": "Aug. 2012 - May. 2015",
         "location": "Mumbai, MH, India",
         "gpa": "81.76/100",
         "is_current": false
